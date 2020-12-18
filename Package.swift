@@ -10,7 +10,7 @@ let package = Package(
     ],
     dependencies: [
         .package(url: "https://github.com/maxep/MXPagerView.git", from: "0.2.0"),
-        .package(url: "https://github.com/maxep/MXSegmentedControl.git", from: "1.1.0"),
+        .package(url: "https://github.com/maxep/MXSegmentedControl.git", from: "1.1.1"),
         .package(url: "https://github.com/maxep/MXParallaxHeader.git", from: "1.0.0"),
     ],
     targets: [
